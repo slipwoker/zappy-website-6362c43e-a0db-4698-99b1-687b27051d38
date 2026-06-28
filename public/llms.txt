@@ -7,25 +7,25 @@
 ## Pages
 
 ### דף הבית
-https://a-aesthetics-6362c43e.zappy5.app
+https://example.com
 חוויית ספא אסתטי ומפנק בגן יבנה עם טיפולי ראש, מסאז&#39;ים, הסרת שיער בלייזר והרמת ריסים. בואי ליהנות מרגע של שלווה ויופי אמיתי — קבעי תור עוד היום.
 
 ### תודה רבה - steam beauty and wellness spa
-https://a-aesthetics-6362c43e.zappy5.app/thank-you
+https://example.com/thank-you
 תודה רבה על פנייתך למרכז steam beauty and wellness spa. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://a-aesthetics-6362c43e.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://a-aesthetics-6362c43e.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://a-aesthetics-6362c43e.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -35,8 +35,8 @@ Information about WCAG compliance and accessibility features.
 - (No contact details configured yet.)
 
 ### Contact form
-- URL: https://a-aesthetics-6362c43e.zappy5.app
-- Endpoint: https://a-aesthetics-6362c43e.zappy5.app/api/email/contact-form
+- URL: https://example.com
+- Endpoint: https://example.com/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -65,6 +65,6 @@ Beauty & Wellness Spa
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://a-aesthetics-6362c43e.zappy5.app/sitemap.xml
-- Robots: https://a-aesthetics-6362c43e.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://a-aesthetics-6362c43e.zappy5.app/llms-full.txt
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt

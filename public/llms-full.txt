@@ -2,13 +2,13 @@
 
 A aesthetic beauty and wellness spa located in Gan Yavne, Israel, offering a curated range of luxury treatments including head spa, massages, facial treatments, laser hair removal, and lash and brow lifts. The brand carries a calm, aesthetic, and inviting vibe — inspired by their Instagram presence (@a_aesthetic_il) — with a focus on elegance, serenity, and a refined beauty experience that feels both professional and deeply relaxing.
 
-Source: https://a-aesthetics-6362c43e.zappy5.app
+Source: https://example.com
 
 ---
 
 ## התפנקי בספא יוקרתי לגוף ולנפש — A Aesthetics
 
-URL: https://a-aesthetics-6362c43e.zappy5.app
+URL: https://example.com
 Description: חוויית ספא אסתטי ומפנק בגן יבנה עם טיפולי ראש, מסאז&#39;ים, הסרת שיער בלייזר והרמת ריסים. בואי ליהנות מרגע של שלווה ויופי אמיתי — קבעי תור עוד היום.
 
 התפנקי בספא יוקרתי לגוף ולנפש — A Aesthetics
@@ -664,7 +664,7 @@ A Aesthetics
 
 ## מדיניות פרטיות
 
-URL: https://a-aesthetics-6362c43e.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -928,7 +928,7 @@ A Aesthetics ("החברה", "אנו", "שלנו") מחויבת להגן על פ�
 
 ## הצהרת נגישות
 
-URL: https://a-aesthetics-6362c43e.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -1201,7 +1201,7 @@ A Aesthetics מחויבת להנגיש את השירותים לכלל הציבו
 
 ## תנאי שימוש
 
-URL: https://a-aesthetics-6362c43e.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -1493,7 +1493,7 @@ A Aesthetics מספקת Beauty & Wellness Spa דרך האתר. השירותים 
 
 ## תודה רבה - steam beauty and wellness spa
 
-URL: https://a-aesthetics-6362c43e.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה רבה על פנייתך למרכז steam beauty and wellness spa. הודעתך התקבלה בהצלחה ונחזור אליך בהקדם.
 
 תודה רבה - steam beauty and wellness spa
